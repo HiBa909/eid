@@ -14,7 +14,7 @@ body {
   padding: 30px;
   border-radius: 20px;
   text-align: center;
-  max-width: 300px;
+  max-width: 400px;
   animation: float 3s ease-in-out infinite;
   box-shadow: 0 0 20px rgba(2, 148, 189, 0.4);
   border: 2px solid #c8e6c9;
